@@ -11,7 +11,4 @@ function myFunction(myObj) {
 }
 console.log(myFunction(players));
 // Only change code above this line
-module.exports = {
-    players,
-    myFunction
-};
+module.exports = { players, myFunction };

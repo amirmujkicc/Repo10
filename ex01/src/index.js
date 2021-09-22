@@ -10,7 +10,4 @@ function myFunction(myObj) {
 }
 // Only change code above this line
 console.log(myFunction(myPet));
-module.exports = {
-    myPet,
-    myFunction
-};
+module.exports = { myPet, myFunction };
