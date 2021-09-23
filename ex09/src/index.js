@@ -6,6 +6,5 @@ function myFunction(myObj, checkProp) {
     return "Not Found";
     // Only change code above this line
 }
-myFunction({ title: "Titanic", song: "My Heart Will Go On", genre: "drama" }, "title");
 module.exports = myFunction;
 
